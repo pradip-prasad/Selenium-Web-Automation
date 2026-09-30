@@ -1,4 +1,4 @@
-# Selenium Web Automation – Mercari
+# Selenium Web Automation
 
 ## 📌 Project Overview
 
